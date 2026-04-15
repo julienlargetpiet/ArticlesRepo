@@ -1,4 +1,0 @@
-id: 114
-title: 📊 Building a Flexible Access Log Analyzer in R
-nickname: 114-building-a-flexible-access-log-analyzer-in-r
-directory: articles_imported/114-building-a-flexible-access-log-analyzer-in-r

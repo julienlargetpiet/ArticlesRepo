@@ -1,4 +1,0 @@
-id: 185
-title: - **bold** and *italic* supported
-nickname: 185-bold-and-italic-supported
-directory: articles_imported/185-bold-and-italic-supported

@@ -1,4 +1,0 @@
-id: 84
-title: Optimizing the Exponential Function in Cherubin
-nickname: 84-optimizing-the-exponential-function-in-cherubin
-directory: articles_imported/84-optimizing-the-exponential-function-in-cherubin

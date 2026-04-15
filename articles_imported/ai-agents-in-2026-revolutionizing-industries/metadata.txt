@@ -1,0 +1,4 @@
+id: 178
+title: AI Agents in 2026: Revolutionizing Industries
+nickname: ai-agents-in-2026-revolutionizing-industries
+directory: articles_imported/ai-agents-in-2026-revolutionizing-industries

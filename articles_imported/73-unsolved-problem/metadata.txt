@@ -1,4 +1,0 @@
-id: 73
-title: Unsolved problem !!!
-nickname: 73-unsolved-problem
-directory: articles_imported/73-unsolved-problem

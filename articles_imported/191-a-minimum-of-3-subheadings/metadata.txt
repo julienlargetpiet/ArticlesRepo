@@ -1,4 +1,0 @@
-id: 191
-title: - A minimum of 3 subheadings
-nickname: 191-a-minimum-of-3-subheadings
-directory: articles_imported/191-a-minimum-of-3-subheadings

@@ -1,0 +1,4 @@
+id: 177
+title: Initialize a model and tokenizer
+nickname: initialize-a-model-and-tokenizer
+directory: articles_imported/initialize-a-model-and-tokenizer

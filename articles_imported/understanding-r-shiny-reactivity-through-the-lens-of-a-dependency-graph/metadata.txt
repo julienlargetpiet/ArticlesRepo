@@ -1,0 +1,4 @@
+id: 175
+title: Understanding R Shiny Reactivity Through the Lens of a Dependency Graph
+nickname: understanding-r-shiny-reactivity-through-the-lens-of-a-dependency-graph
+directory: articles_imported/understanding-r-shiny-reactivity-through-the-lens-of-a-dependency-graph

@@ -1,4 +1,0 @@
-id: 112
-title: Checking Graph Bipartiteness in Haskell
-nickname: 112-checking-graph-bipartiteness-in-haskell
-directory: articles_imported/112-checking-graph-bipartiteness-in-haskell

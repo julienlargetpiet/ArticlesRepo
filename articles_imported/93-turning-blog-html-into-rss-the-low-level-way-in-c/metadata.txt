@@ -1,4 +1,0 @@
-id: 93
-title: Turning Blog HTML into RSS, the Low-Level Way (in C++)
-nickname: 93-turning-blog-html-into-rss-the-low-level-way-in-c
-directory: articles_imported/93-turning-blog-html-into-rss-the-low-level-way-in-c

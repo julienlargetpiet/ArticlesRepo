@@ -1,0 +1,4 @@
+id: 128
+title: jq as a Stream Calculus and Tree Algebra
+nickname: jq-as-a-stream-calculus-and-tree-algebra
+directory: articles_imported/jq-as-a-stream-calculus-and-tree-algebra

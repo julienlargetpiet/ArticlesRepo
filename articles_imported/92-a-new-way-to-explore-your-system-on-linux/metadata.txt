@@ -1,4 +1,0 @@
-id: 92
-title: A New Way to Explore Your System on Linux
-nickname: 92-a-new-way-to-explore-your-system-on-linux
-directory: articles_imported/92-a-new-way-to-explore-your-system-on-linux

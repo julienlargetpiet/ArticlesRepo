@@ -1,4 +1,0 @@
-id: 72
-title: Custom Encoding For Integers
-nickname: 72-custom-encoding-for-integers
-directory: articles_imported/72-custom-encoding-for-integers

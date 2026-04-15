@@ -1,4 +1,0 @@
-id: 201
-title: Building a ChatGPT-like CLI in Bash: a journey through pipes, JSON, streaming, and shell weirdness
-nickname: 201-building-a-chatgpt-like-cli-in-bash-a-journey-through-pipes-json-streaming-and-shell-weirdness
-directory: articles_imported/201-building-a-chatgpt-like-cli-in-bash-a-journey-through-pipes-json-streaming-and-shell-weirdness

@@ -1,4 +1,0 @@
-id: 187
-title: - image links are not allowed, use ![image](description) instead
-nickname: 187-image-links-are-not-allowed-use-image-description-instead
-directory: articles_imported/187-image-links-are-not-allowed-use-image-description-instead

@@ -1,4 +1,0 @@
-id: 100
-title: Understanding the Haskell Type System: From Typeclasses to Data Structures
-nickname: 100-understanding-the-haskell-type-system-from-typeclasses-to-data-structures
-directory: articles_imported/100-understanding-the-haskell-type-system-from-typeclasses-to-data-structures

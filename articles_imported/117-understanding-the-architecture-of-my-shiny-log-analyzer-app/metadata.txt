@@ -1,4 +1,0 @@
-id: 117
-title: 🧩 Understanding the Architecture of My Shiny Log Analyzer App
-nickname: 117-understanding-the-architecture-of-my-shiny-log-analyzer-app
-directory: articles_imported/117-understanding-the-architecture-of-my-shiny-log-analyzer-app

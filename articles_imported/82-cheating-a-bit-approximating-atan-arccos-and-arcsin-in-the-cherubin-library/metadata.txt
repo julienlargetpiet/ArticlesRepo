@@ -1,4 +1,0 @@
-id: 82
-title: Cheating a Bit: Approximating atan, arccos, and arcsin in the Cherubin Library
-nickname: 82-cheating-a-bit-approximating-atan-arccos-and-arcsin-in-the-cherubin-library
-directory: articles_imported/82-cheating-a-bit-approximating-atan-arccos-and-arcsin-in-the-cherubin-library

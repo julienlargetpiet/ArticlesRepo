@@ -1,4 +1,0 @@
-id: 118
-title: Fixing bslib Tabs That Reset Inputs in Shiny
-nickname: 118-fixing-bslib-tabs-that-reset-inputs-in-shiny
-directory: articles_imported/118-fixing-bslib-tabs-that-reset-inputs-in-shiny

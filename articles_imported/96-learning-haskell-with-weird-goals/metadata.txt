@@ -1,4 +1,0 @@
-id: 96
-title: Learning Haskell with Weird Goals
-nickname: 96-learning-haskell-with-weird-goals
-directory: articles_imported/96-learning-haskell-with-weird-goals

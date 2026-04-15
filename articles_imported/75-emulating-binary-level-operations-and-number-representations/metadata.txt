@@ -1,4 +1,0 @@
-id: 75
-title: Emulating Binary-Level Operations and Number Representations
-nickname: 75-emulating-binary-level-operations-and-number-representations
-directory: articles_imported/75-emulating-binary-level-operations-and-number-representations

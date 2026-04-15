@@ -1,0 +1,4 @@
+id: 203
+title: Sed, a powerfull mini-language from the 70s
+nickname: sed-a-powerfull-mini-language-from-the-70s
+directory: articles_imported/sed-a-powerfull-mini-language-from-the-70s

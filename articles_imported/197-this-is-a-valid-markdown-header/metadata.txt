@@ -1,4 +1,0 @@
-id: 197
-title: - this is a valid markdown header
-nickname: 197-this-is-a-valid-markdown-header
-directory: articles_imported/197-this-is-a-valid-markdown-header

@@ -1,4 +1,0 @@
-id: 200
-title: -header
-nickname: 200-header
-directory: articles_imported/200-header

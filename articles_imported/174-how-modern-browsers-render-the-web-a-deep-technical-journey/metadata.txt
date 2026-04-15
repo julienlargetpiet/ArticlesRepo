@@ -1,4 +1,0 @@
-id: 174
-title: How Modern Browsers Render the Web: A Deep Technical Journey
-nickname: 174-how-modern-browsers-render-the-web-a-deep-technical-journey
-directory: articles_imported/174-how-modern-browsers-render-the-web-a-deep-technical-journey

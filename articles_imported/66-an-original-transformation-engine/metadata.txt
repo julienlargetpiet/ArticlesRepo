@@ -1,4 +1,0 @@
-id: 66
-title: An Original Transformation Engine
-nickname: 66-an-original-transformation-engine
-directory: articles_imported/66-an-original-transformation-engine

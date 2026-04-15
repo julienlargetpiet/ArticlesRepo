@@ -1,0 +1,4 @@
+id: 107
+title: Graph Isomorphism in Haskell (Problem 85)
+nickname: graph-isomorphism-in-haskell-problem-85
+directory: articles_imported/graph-isomorphism-in-haskell-problem-85

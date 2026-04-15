@@ -1,4 +1,0 @@
-id: 179
-title: **The Future of Autonomous Systems**
-nickname: 179-the-future-of-autonomous-systems
-directory: articles_imported/179-the-future-of-autonomous-systems

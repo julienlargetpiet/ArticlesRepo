@@ -1,4 +1,0 @@
-id: 208
-title: Doom in LaTeX (+Bash)
-nickname: 208-doom-in-latex-bash
-directory: articles_imported/208-doom-in-latex-bash

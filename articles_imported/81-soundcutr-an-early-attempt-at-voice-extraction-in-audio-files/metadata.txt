@@ -1,4 +1,0 @@
-id: 81
-title: SoundCutr: An Early Attempt at Voice Extraction in Audio Files
-nickname: 81-soundcutr-an-early-attempt-at-voice-extraction-in-audio-files
-directory: articles_imported/81-soundcutr-an-early-attempt-at-voice-extraction-in-audio-files

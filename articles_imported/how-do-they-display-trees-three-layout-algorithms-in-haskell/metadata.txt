@@ -1,0 +1,4 @@
+id: 109
+title: How Do They Display Trees — Three Layout Algorithms in Haskell
+nickname: how-do-they-display-trees-three-layout-algorithms-in-haskell
+directory: articles_imported/how-do-they-display-trees-three-layout-algorithms-in-haskell

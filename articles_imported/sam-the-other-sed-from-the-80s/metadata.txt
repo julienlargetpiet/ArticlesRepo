@@ -1,0 +1,4 @@
+id: 205
+title: SAM, the 'other' SED from the 80s
+nickname: sam-the-other-sed-from-the-80s
+directory: articles_imported/sam-the-other-sed-from-the-80s

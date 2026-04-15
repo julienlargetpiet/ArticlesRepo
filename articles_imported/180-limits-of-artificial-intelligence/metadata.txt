@@ -1,4 +1,0 @@
-id: 180
-title: Limits of Artificial Intelligence
-nickname: 180-limits-of-artificial-intelligence
-directory: articles_imported/180-limits-of-artificial-intelligence

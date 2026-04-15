@@ -1,0 +1,4 @@
+id: 204
+title: AWK: The Small Language That Quietly Became a Data Engine
+nickname: awk-the-small-language-that-quietly-became-a-data-engine
+directory: articles_imported/awk-the-small-language-that-quietly-became-a-data-engine

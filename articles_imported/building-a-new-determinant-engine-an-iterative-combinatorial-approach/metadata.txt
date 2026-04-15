@@ -1,0 +1,4 @@
+id: 119
+title: Building a New Determinant Engine — An Iterative Combinatorial Approach
+nickname: building-a-new-determinant-engine-an-iterative-combinatorial-approach
+directory: articles_imported/building-a-new-determinant-engine-an-iterative-combinatorial-approach

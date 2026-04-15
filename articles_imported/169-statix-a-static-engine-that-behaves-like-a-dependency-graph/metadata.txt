@@ -1,4 +1,0 @@
-id: 169
-title: Statix: A Static Engine That Behaves Like a Dependency Graph
-nickname: 169-statix-a-static-engine-that-behaves-like-a-dependency-graph
-directory: articles_imported/169-statix-a-static-engine-that-behaves-like-a-dependency-graph

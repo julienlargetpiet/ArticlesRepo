@@ -1,4 +1,0 @@
-id: 111
-title: Solving the Eight Queens Problem in Haskell
-nickname: 111-solving-the-eight-queens-problem-in-haskell
-directory: articles_imported/111-solving-the-eight-queens-problem-in-haskell

@@ -1,4 +1,0 @@
-id: 83
-title: Reimplementing the Cauchy Distribution in Fulgurance (C++ Statistics Library)
-nickname: 83-reimplementing-the-cauchy-distribution-in-fulgurance-c-statistics-library
-directory: articles_imported/83-reimplementing-the-cauchy-distribution-in-fulgurance-c-statistics-library

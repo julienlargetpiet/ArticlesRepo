@@ -1,4 +1,0 @@
-id: 74
-title: Editing My YouTube Videos the Weird Way: With Nothing but ffmpeg
-nickname: 74-editing-my-youtube-videos-the-weird-way-with-nothing-but-ffmpeg
-directory: articles_imported/74-editing-my-youtube-videos-the-weird-way-with-nothing-but-ffmpeg

@@ -1,4 +1,0 @@
-id: 89
-title: Building InFoEnd: An End-to-End Encrypted Chatroom in Go
-nickname: 89-building-infoend-an-end-to-end-encrypted-chatroom-in-go
-directory: articles_imported/89-building-infoend-an-end-to-end-encrypted-chatroom-in-go

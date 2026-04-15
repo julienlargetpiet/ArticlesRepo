@@ -1,4 +1,0 @@
-id: 202
-title: 🧠 Bash Arrays: From First Steps to Real-World Mastery
-nickname: 202-bash-arrays-from-first-steps-to-real-world-mastery
-directory: articles_imported/202-bash-arrays-from-first-steps-to-real-world-mastery

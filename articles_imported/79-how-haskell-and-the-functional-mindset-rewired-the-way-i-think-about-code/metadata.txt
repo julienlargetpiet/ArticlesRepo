@@ -1,4 +1,0 @@
-id: 79
-title: How Haskell (and the Functional Mindset) Rewired the Way I Think About Code
-nickname: 79-how-haskell-and-the-functional-mindset-rewired-the-way-i-think-about-code
-directory: articles_imported/79-how-haskell-and-the-functional-mindset-rewired-the-way-i-think-about-code

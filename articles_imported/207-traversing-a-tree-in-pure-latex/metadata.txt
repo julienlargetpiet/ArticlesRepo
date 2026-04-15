@@ -1,4 +1,0 @@
-id: 207
-title: Traversing a Tree in pure LaTeX
-nickname: 207-traversing-a-tree-in-pure-latex
-directory: articles_imported/207-traversing-a-tree-in-pure-latex

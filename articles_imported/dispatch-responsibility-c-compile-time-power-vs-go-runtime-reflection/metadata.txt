@@ -1,0 +1,4 @@
+id: 123
+title: 🧠 Dispatch Responsibility: C++ Compile-Time Power vs Go Runtime Reflection
+nickname: dispatch-responsibility-c-compile-time-power-vs-go-runtime-reflection
+directory: articles_imported/dispatch-responsibility-c-compile-time-power-vs-go-runtime-reflection

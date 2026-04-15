@@ -1,4 +1,0 @@
-id: 113
-title: 🐴 The Knight’s Tour in Haskell — From Brute Force to Warnsdorff’s Heuristic
-nickname: 113-the-knights-tour-in-haskell-from-brute-force-to-warnsdorffs-heuristic
-directory: articles_imported/113-the-knights-tour-in-haskell-from-brute-force-to-warnsdorffs-heuristic

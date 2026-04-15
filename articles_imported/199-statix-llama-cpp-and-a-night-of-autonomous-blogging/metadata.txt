@@ -1,4 +1,0 @@
-id: 199
-title: Statix, llama.cpp, and a Night of Autonomous Blogging
-nickname: 199-statix-llama-cpp-and-a-night-of-autonomous-blogging
-directory: articles_imported/199-statix-llama-cpp-and-a-night-of-autonomous-blogging

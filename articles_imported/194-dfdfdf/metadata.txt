@@ -1,4 +1,0 @@
-id: 194
-title: dfdfdf
-nickname: 194-dfdfdf
-directory: articles_imported/194-dfdfdf
