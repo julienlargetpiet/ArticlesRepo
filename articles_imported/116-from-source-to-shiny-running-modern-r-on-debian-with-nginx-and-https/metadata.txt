@@ -1,0 +1,4 @@
+id: 116
+title: 🧠 From Source to Shiny: Running Modern R on Debian with NGINX and HTTPS
+nickname: 116-from-source-to-shiny-running-modern-r-on-debian-with-nginx-and-https
+directory: articles_imported/116-from-source-to-shiny-running-modern-r-on-debian-with-nginx-and-https

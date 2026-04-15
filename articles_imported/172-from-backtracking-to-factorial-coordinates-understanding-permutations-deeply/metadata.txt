@@ -1,0 +1,4 @@
+id: 172
+title: From Backtracking to Factorial Coordinates: Understanding Permutations Deeply
+nickname: 172-from-backtracking-to-factorial-coordinates-understanding-permutations-deeply
+directory: articles_imported/172-from-backtracking-to-factorial-coordinates-understanding-permutations-deeply

@@ -1,0 +1,4 @@
+id: 105
+title: Implementing Huffman Encoding in Haskell
+nickname: 105-implementing-huffman-encoding-in-haskell
+directory: articles_imported/105-implementing-huffman-encoding-in-haskell

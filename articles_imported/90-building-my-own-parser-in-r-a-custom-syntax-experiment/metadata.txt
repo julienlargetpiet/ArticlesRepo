@@ -1,0 +1,4 @@
+id: 90
+title: Building My Own Parser in R - A Custom Syntax Experiment
+nickname: 90-building-my-own-parser-in-r-a-custom-syntax-experiment
+directory: articles_imported/90-building-my-own-parser-in-r-a-custom-syntax-experiment

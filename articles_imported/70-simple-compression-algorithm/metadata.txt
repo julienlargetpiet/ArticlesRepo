@@ -1,0 +1,4 @@
+id: 70
+title: Simple Compression Algorithm
+nickname: 70-simple-compression-algorithm
+directory: articles_imported/70-simple-compression-algorithm

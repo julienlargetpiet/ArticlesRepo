@@ -1,0 +1,4 @@
+id: 104
+title: Building a Custom Cartesian Product Function in Haskell
+nickname: 104-building-a-custom-cartesian-product-function-in-haskell
+directory: articles_imported/104-building-a-custom-cartesian-product-function-in-haskell

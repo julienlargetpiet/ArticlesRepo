@@ -1,0 +1,4 @@
+id: 130
+title: Statix - I Built My Own Blog Engine (Because I Refuse to Negotiate with Markdown Toolchains).
+nickname: 130-statix-i-built-my-own-blog-engine-because-i-refuse-to-negotiate-with-markdown-toolchains
+directory: articles_imported/130-statix-i-built-my-own-blog-engine-because-i-refuse-to-negotiate-with-markdown-toolchains

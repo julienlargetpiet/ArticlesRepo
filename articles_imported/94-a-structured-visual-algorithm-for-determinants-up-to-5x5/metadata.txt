@@ -1,0 +1,4 @@
+id: 94
+title: A Structured, Visual Algorithm for Determinants up to 5×5
+nickname: 94-a-structured-visual-algorithm-for-determinants-up-to-5x5
+directory: articles_imported/94-a-structured-visual-algorithm-for-determinants-up-to-5x5

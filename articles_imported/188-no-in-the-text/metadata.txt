@@ -1,0 +1,4 @@
+id: 188
+title: (no '#' in the text)
+nickname: 188-no-in-the-text
+directory: articles_imported/188-no-in-the-text

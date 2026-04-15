@@ -1,0 +1,4 @@
+id: 121
+title: Designing a Column-Major Matrix Class with Row-Major Multiplication Optimizations (CPU & GPU)
+nickname: 121-designing-a-column-major-matrix-class-with-row-major-multiplication-optimizations-cpu-gpu
+directory: articles_imported/121-designing-a-column-major-matrix-class-with-row-major-multiplication-optimizations-cpu-gpu

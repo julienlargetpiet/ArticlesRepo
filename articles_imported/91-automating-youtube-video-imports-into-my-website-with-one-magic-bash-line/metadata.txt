@@ -1,0 +1,4 @@
+id: 91
+title: Automating YouTube Video Imports into My Website with One Magic Bash Line
+nickname: 91-automating-youtube-video-imports-into-my-website-with-one-magic-bash-line
+directory: articles_imported/91-automating-youtube-video-imports-into-my-website-with-one-magic-bash-line
