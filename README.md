@@ -1,6 +1,6 @@
 ## Articles
 
-This is the repo containing all my articles i have on my blog ![julienlargetpiet.tech](https://julienlargetpiet.tech)
+This is the repo containing all my articles i have on my blog [julienlargetpiet.tech](https://julienlargetpiet.tech)
 
 ```bash
 bash import_articles.sh -o ~/MyBlog
