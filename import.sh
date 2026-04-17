@@ -75,4 +75,6 @@ EOF
 
 done
 
+rm .statix_articles.json
+
 

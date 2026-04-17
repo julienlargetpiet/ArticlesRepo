@@ -4,7 +4,7 @@ This is the repo containing all my articles i have on my blog ![julienlargetpiet
 
 `import.sh`
 
-Allos to locally import the articles creating this sheme:
+Allows to locally import the articles creating this sheme:
 
 ```
 articles_imported
@@ -21,5 +21,13 @@ articles_imported
 ```
 
 This works after you set up the Statix CLI.
+
+Now, you can just:
+
+```
+$ cd articles_imported/my-article
+```
+
+And do some works in that folder.
 
 [https://github.com/julienlargetpiet/Statix](https://github.com/julienlargetpiet/Statix)
