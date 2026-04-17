@@ -2,24 +2,31 @@
 
 BASE_URL="https://julienlargetpiet.tech"
 
-OUTPUTDIR="common_files"
+SCRIPT_DIR="$(pwd)"
+OUTPUTDIR="$SCRIPT_DIR/common_files"
+
+GRPVAR="."
 
 # while there is at least one arg left
 while [[ $# -gt 0 ]]; do
-    case "$1" in
-        -o )
-            OUTPUTDIR="${2}/common_files"
-            shift 2 # it consumes the next 2 args, so go straight to the intended end 
-            ;;
-        *)
-            shift # ignores by just consuming an arg
-            ;;
-    esac
+  case "$1" in
+    -o)
+      [[ $# -lt 2 ]] && { echo "Missing value for -o"; exit 1; }
+      OUTPUTDIR="$2"
+      shift 2
+      ;;
+    -e)
+      [[ $# -lt 2 ]] && { echo "Missing value for -e"; exit 1; }
+      GRPVAR="$2"
+      shift 2
+      ;;
+    *)
+      shift
+      ;;
+  esac
 done
 
-mkdir -p $OUTPUTDIR
-
-GRPVAR="lynx1"
+mkdir -p "$OUTPUTDIR"
 
 stx file list | grep "$GRPVAR" | while IFS=$'\t' read -r path size; do
   [[ -z "$path" ]] && continue

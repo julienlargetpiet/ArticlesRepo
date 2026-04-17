@@ -6,6 +6,14 @@ This is the repo containing all my articles i have on my blog ![julienlargetpiet
 $ bash import_articles.sh -o ~/MyBlog
 ```
 
+OR
+
+```bash
+$ chmod +x import_articles.sh
+$ sudo cp import_articles.sh /usr/local/bin/.
+$ bash import_articles.sh -o ~/MyBlog
+```
+
 Allows to locally import the articles creating this sheme:
 
 ```
@@ -38,11 +46,27 @@ And do some works in that folder.
 $ bash import_files.sh -o ~/MyBlog
 ```
 
+OR
+
+```bash
+$ chmod +x import_files.sh
+$ sudo cp import_files.sh /usr/local/bin/.
+$ bash import_files.sh -o ~/MyBlog
+```
+
 --> Creates `common_files` replicating exactly the structure of the content file on your blogs.
 
 ## Scheme
 
 ```nash
+$ bash import_scheme.sh -o ~/MyBlog
+```
+
+OR
+
+```bash
+$ chmod +x import_scheme.sh
+$ sudo cp import_scheme.sh /usr/local/bin/.
 $ bash import_scheme.sh -o ~/MyBlog
 ```
 

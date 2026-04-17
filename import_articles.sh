@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-OUTPUTDIR="."
+SCRIPT_DIR="$(pwd)"
+
+OUTPUTDIR="$SCRIPT_DIR"
 
 # while there is at least one arg left
 while [[ $# -gt 0 ]]; do
@@ -80,12 +82,6 @@ stx articles | while IFS= read -r line; do
   )
 
 done
-
-if [[ ! -e "scheme.sh" ]]; then 
-    touch scheme.sh
-else 
-    echo "" > scheme.sh
-fi
 
 
 

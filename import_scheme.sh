@@ -1,21 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
 
-OUTPUTDIR="."
+SCRIPT_DIR="$(pwd)"
+OUTPUTDIR="$SCRIPT_DIR"
 
-# while there is at least one arg left
 while [[ $# -gt 0 ]]; do
-    case "$1" in
-        -o )
-            OUTPUTDIR="$2"
-            shift 2 # it consumes the next 2 args, so go straight to the intended end 
-            ;;
-        *)
-            shift # ignores by just consuming an arg
-            ;;
-    esac
+  case "$1" in
+    -o)
+      [[ $# -lt 2 ]] && { echo "Missing value for -o"; exit 1; }
+      OUTPUTDIR="$2"
+      shift 2
+      ;;
+    *)
+      shift
+      ;;
+  esac
 done
 
-stx subjects | while IFS= read -r line; do
-    [[ -z $line ]] && continue
+mkdir -p "$OUTPUTDIR"
+SCHEME_FILE="$OUTPUTDIR/scheme.sh"
+: > "$SCHEME_FILE"
+
+while IFS= read -r line; do
+  [[ -z "$line" ]] && continue
+
   if [[ "$line" =~ ^([0-9]+)[[:space:]]+(.*)$ ]]; then
     title="${BASH_REMATCH[2]}"
   else
@@ -23,6 +31,6 @@ stx subjects | while IFS= read -r line; do
     continue
   fi
 
-  echo "stx subject add $title" >> "${OUTPUTDIR}/scheme.sh"
+  echo "stx subject add \"$title\"" >> "$SCHEME_FILE"
 
-done
+done < <(stx subjects)
