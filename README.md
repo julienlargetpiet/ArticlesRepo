@@ -3,7 +3,7 @@
 This is the repo containing all my articles i have on my blog ![julienlargetpiet.tech](https://julienlargetpiet.tech)
 
 ```bash
-$ bash import.sh
+$ bash import_articles.sh
 ```
 
 Allows to locally import the articles creating this sheme:
