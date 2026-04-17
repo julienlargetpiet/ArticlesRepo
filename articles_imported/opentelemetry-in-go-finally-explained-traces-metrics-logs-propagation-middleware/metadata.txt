@@ -1,4 +1,0 @@
-id: 167
-title: OpenTelemetry in Go, finally explained: traces, metrics, logs, propagation & middleware
-nickname: opentelemetry-in-go-finally-explained-traces-metrics-logs-propagation-middleware
-directory: articles_imported/opentelemetry-in-go-finally-explained-traces-metrics-logs-propagation-middleware

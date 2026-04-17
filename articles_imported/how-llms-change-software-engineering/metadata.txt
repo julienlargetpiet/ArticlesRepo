@@ -1,4 +1,0 @@
-id: 184
-title: How LLMs Change Software Engineering
-nickname: how-llms-change-software-engineering
-directory: articles_imported/how-llms-change-software-engineering

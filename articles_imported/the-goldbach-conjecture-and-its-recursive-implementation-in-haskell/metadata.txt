@@ -1,4 +1,0 @@
-id: 103
-title: The Goldbach Conjecture and Its Recursive Implementation in Haskell
-nickname: the-goldbach-conjecture-and-its-recursive-implementation-in-haskell
-directory: articles_imported/the-goldbach-conjecture-and-its-recursive-implementation-in-haskell

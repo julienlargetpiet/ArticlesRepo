@@ -1,4 +1,0 @@
-id: 86
-title: Reimplementing Cross-Validation for KNN in R (from Scratch)
-nickname: reimplementing-cross-validation-for-knn-in-r-from-scratch
-directory: articles_imported/reimplementing-cross-validation-for-knn-in-r-from-scratch

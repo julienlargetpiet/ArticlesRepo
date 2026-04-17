@@ -1,4 +1,0 @@
-id: 188
-title: (no '#' in the text)
-nickname: no-in-the-text
-directory: articles_imported/no-in-the-text

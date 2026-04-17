@@ -14,7 +14,7 @@ So 4 years later I returned to LaTeX to learn it, for real.
 
 I wanted to build a really coherent mental model by learning all its invariants.
 
-And I can say it has been a great success, I even built a mini Doom in LaTeX --> [Go to section](#finally-doom-and-other-in-latex)
+And I can say it has been a great success, I even built a mini Doom in LaTeX --> [Go to section](#finally-doom-in-latex)
 
 This is not only an article, it's personal.
 
@@ -30,7 +30,7 @@ TeX is a Turing-complete language.
 
 First, all the code I will reference comes from my repo here:
 
-[https://github.com/julienlargetpiet/SomeLaTeX](https://github.com/julienlargetpiet/SomeLaTeX)
+[SomeLaTeX](https://github.com/julienlargetpiet/SomeLaTeX)
 
 ## The prerequisites & Basic mental model
 
@@ -7339,7 +7339,7 @@ Massive PGFPlot 3D foreshadowing here:
 
 ![3D5.png](../assets/common_files/images_latex/3D5.png)
 
-Keep in mid, the x axis, is the "width", the y axis is the "depth" and the z axis is the "height".
+Keep in mind, the x axis, is the "width", the y axis is the "depth" and the z axis is the "height".
 
 And we use `\addplot3` for 3D plot in PGFPlot.
 

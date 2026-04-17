@@ -1,4 +1,0 @@
-id: 80
-title: Implementing DataFrames in C++: A Custom Approach for High-Performance Data Manipulation
-nickname: implementing-dataframes-in-c-a-custom-approach-for-high-performance-data-manipulation
-directory: articles_imported/implementing-dataframes-in-c-a-custom-approach-for-high-performance-data-manipulation

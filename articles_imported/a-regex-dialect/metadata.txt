@@ -1,4 +1,0 @@
-id: 67
-title: A ReGex Dialect
-nickname: a-regex-dialect
-directory: articles_imported/a-regex-dialect

@@ -1,4 +1,0 @@
-id: 98
-title: Building a Recursive Parenthesis-Based Calculator in Haskell
-nickname: building-a-recursive-parenthesis-based-calculator-in-haskell
-directory: articles_imported/building-a-recursive-parenthesis-based-calculator-in-haskell

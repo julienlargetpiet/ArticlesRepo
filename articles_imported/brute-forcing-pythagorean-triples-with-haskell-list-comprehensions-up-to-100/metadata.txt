@@ -1,4 +1,0 @@
-id: 95
-title: Brute-forcing Pythagorean Triples with Haskell List Comprehensions (up to 100)
-nickname: brute-forcing-pythagorean-triples-with-haskell-list-comprehensions-up-to-100
-directory: articles_imported/brute-forcing-pythagorean-triples-with-haskell-list-comprehensions-up-to-100

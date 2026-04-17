@@ -1,4 +1,0 @@
-id: 68
-title: Symetric Encryption Protocol
-nickname: symetric-encryption-protocol
-directory: articles_imported/symetric-encryption-protocol

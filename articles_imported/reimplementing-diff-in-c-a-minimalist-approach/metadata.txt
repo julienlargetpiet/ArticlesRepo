@@ -1,4 +1,0 @@
-id: 88
-title: Reimplementing diff in C++: A Minimalist Approach
-nickname: reimplementing-diff-in-c-a-minimalist-approach
-directory: articles_imported/reimplementing-diff-in-c-a-minimalist-approach

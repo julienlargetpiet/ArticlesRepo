@@ -1,4 +1,0 @@
-id: 170
-title: Java Deep Dive: Architecture, Memory, OOP & Modern Features
-nickname: java-deep-dive-architecture-memory-oop-modern-features
-directory: articles_imported/java-deep-dive-architecture-memory-oop-modern-features

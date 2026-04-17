@@ -55,26 +55,24 @@ stx articles | while IFS= read -r line; do
 
   mkdir -p "$dir"
 
-  cat > "$dir/metadata.txt" <<EOF
-id: $id
-title: $title
-nickname: $name
-directory: $dir
-EOF
-
   echo "Processing article $id -> $name"
-
-  # Create nickname locally
-  stx nickname import "$id" "$name"
 
   # Import markdown content
   (
     cd "$dir"
+    stx nickname import "$id" "$name"
     stx nickname import-content --markdown "$id" "$name"
   )
 
 done
 
-rm .statix_articles.json
+if [[ ! -e "scheme.sh" ]]; then 
+    touch scheme.sh
+else 
+    echo "" > scheme.sh
+fi
+
+
+
 
 

@@ -1,4 +1,0 @@
-id: 101
-title: Finding the Optimal Path in Haskell: A Recursive Exploration
-nickname: finding-the-optimal-path-in-haskell-a-recursive-exploration
-directory: articles_imported/finding-the-optimal-path-in-haskell-a-recursive-exploration

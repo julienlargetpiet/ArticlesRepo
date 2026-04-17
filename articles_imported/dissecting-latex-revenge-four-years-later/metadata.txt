@@ -1,4 +1,0 @@
-id: 206
-title: Dissecting LaTeX: Revenge, Four Years Later
-nickname: dissecting-latex-revenge-four-years-later
-directory: articles_imported/dissecting-latex-revenge-four-years-later

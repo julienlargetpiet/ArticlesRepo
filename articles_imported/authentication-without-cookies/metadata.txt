@@ -1,4 +1,0 @@
-id: 71
-title: Authentication Without Cookies
-nickname: authentication-without-cookies
-directory: articles_imported/authentication-without-cookies

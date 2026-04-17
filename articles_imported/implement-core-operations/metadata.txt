@@ -1,4 +1,0 @@
-id: 69
-title: Implement Core Operations
-nickname: implement-core-operations
-directory: articles_imported/implement-core-operations

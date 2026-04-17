@@ -1,4 +1,0 @@
-id: 182
-title: LLMs and the Future of Software Engineering
-nickname: llms-and-the-future-of-software-engineering
-directory: articles_imported/llms-and-the-future-of-software-engineering

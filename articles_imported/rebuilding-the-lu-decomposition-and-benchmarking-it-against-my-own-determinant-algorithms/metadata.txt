@@ -1,4 +1,0 @@
-id: 120
-title: 🧮 Rebuilding the LU Decomposition and Benchmarking It Against My Own Determinant Algorithms
-nickname: rebuilding-the-lu-decomposition-and-benchmarking-it-against-my-own-determinant-algorithms
-directory: articles_imported/rebuilding-the-lu-decomposition-and-benchmarking-it-against-my-own-determinant-algorithms

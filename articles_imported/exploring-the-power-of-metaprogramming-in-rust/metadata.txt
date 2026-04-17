@@ -1,4 +1,0 @@
-id: 115
-title: Exploring the Power of Metaprogramming in Rust
-nickname: exploring-the-power-of-metaprogramming-in-rust
-directory: articles_imported/exploring-the-power-of-metaprogramming-in-rust

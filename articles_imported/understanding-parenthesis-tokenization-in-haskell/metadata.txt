@@ -1,4 +1,0 @@
-id: 99
-title: Understanding Parenthesis Tokenization in Haskell
-nickname: understanding-parenthesis-tokenization-in-haskell
-directory: articles_imported/understanding-parenthesis-tokenization-in-haskell

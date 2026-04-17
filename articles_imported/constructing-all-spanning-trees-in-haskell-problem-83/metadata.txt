@@ -1,4 +1,0 @@
-id: 108
-title: Constructing All Spanning Trees in Haskell (Problem 83)
-nickname: constructing-all-spanning-trees-in-haskell-problem-83
-directory: articles_imported/constructing-all-spanning-trees-in-haskell-problem-83

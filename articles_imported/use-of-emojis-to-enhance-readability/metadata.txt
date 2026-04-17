@@ -1,4 +1,0 @@
-id: 189
-title: - Use of emojis to enhance readability
-nickname: use-of-emojis-to-enhance-readability
-directory: articles_imported/use-of-emojis-to-enhance-readability

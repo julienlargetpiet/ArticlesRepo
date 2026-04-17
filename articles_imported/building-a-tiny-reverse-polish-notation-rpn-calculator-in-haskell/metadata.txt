@@ -1,4 +1,0 @@
-id: 97
-title: Building a Tiny Reverse Polish Notation (RPN) Calculator in Haskell
-nickname: building-a-tiny-reverse-polish-notation-rpn-calculator-in-haskell
-directory: articles_imported/building-a-tiny-reverse-polish-notation-rpn-calculator-in-haskell
