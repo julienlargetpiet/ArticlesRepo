@@ -11,7 +11,7 @@ OR
 ```bash
 $ chmod +x import_articles.sh
 $ sudo cp import_articles.sh /usr/local/bin/.
-$ bash import_articles.sh -o ~/MyBlog
+$ import_articles.sh -o ~/MyBlog
 ```
 
 Allows to locally import the articles creating this sheme:
@@ -51,7 +51,7 @@ OR
 ```bash
 $ chmod +x import_files.sh
 $ sudo cp import_files.sh /usr/local/bin/.
-$ bash import_files.sh -o ~/MyBlog
+$ import_files.sh -o ~/MyBlog
 ```
 
 --> Creates `common_files` replicating exactly the structure of the content file on your blogs.
@@ -67,7 +67,7 @@ OR
 ```bash
 $ chmod +x import_scheme.sh
 $ sudo cp import_scheme.sh /usr/local/bin/.
-$ bash import_scheme.sh -o ~/MyBlog
+$ import_scheme.sh -o ~/MyBlog
 ```
 
 --> Creates `scheme.sh` containing all the `stx` command to replicated the structure of your blog.
