@@ -3,7 +3,7 @@
 This is the repo containing all my articles i have on my blog ![julienlargetpiet.tech](https://julienlargetpiet.tech)
 
 ```bash
-$ bash import_articles.sh
+$ bash import_articles.sh -o ~/MyBlog
 ```
 
 Allows to locally import the articles creating this sheme:
@@ -27,7 +27,7 @@ This works after you set up the Statix CLI.
 Now, you can just:
 
 ```
-$ cd articles_imported/my-article
+$ cd ~/MyBlog/articles_imported/my-article
 ```
 
 And do some works in that folder.
@@ -35,7 +35,7 @@ And do some works in that folder.
 ## Files
 
 ```bash
-$ bash import_files.sh
+$ bash import_files.sh -o ~/MyBlog
 ```
 
 --> Creates `common_files` replicating exactly the structure of the content file on your blogs.
@@ -43,7 +43,7 @@ $ bash import_files.sh
 ## Scheme
 
 ```nash
-$ bash import_scheme.sh
+$ bash import_scheme.sh -o ~/MyBlog
 ```
 
 --> Creates `scheme.sh` containing all the `stx` command to replicated the structure of your blog.
